@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ken Kawano",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://kenkawano.github.io/template/images/techfolioimage.png",
+    "email": "kkkawano@hawaii.edu",
+    "phone": "808-221-3882",
+    "website": "https://kenkawano.github.io",
+    "summary": "I am studying for a B.A. in Information & Computer Science at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96821",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,14 +17,15 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kenkawano",
+        "url": "http://github.com/kenkawano"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "kenkawano",
+        "url": "https://www.linkedin.com/in/ken-kawano-717752146/"
       },
+      /*
       {
         "network": "twitter",
         "username": "mollymal",
@@ -35,6 +36,7 @@
         "username": "molly",
         "url": "http://instagram.com/changeme"
       }
+      */
     ]
   },
   "interests": [
