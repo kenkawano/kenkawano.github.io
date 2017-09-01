@@ -9,6 +9,7 @@ labels:
   - Robotics
   - Outreach
 summary: I helped the Kalani Highschool robotics team with their outreach program for FIRST Robotics.
+projecturl: https://kenkawano.github.io/projects/mentoringfirst
 ---
 
 <div class="ui small rounded images">
