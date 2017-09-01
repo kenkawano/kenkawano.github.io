@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/battleship.png
+image: images/battleship.jpg
 title: Battleship
 permalink: projects/battleship
 date: 2016
@@ -11,7 +11,9 @@ labels:
 summary: Created a text based battleship game.
 ---
 
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/battleship.jpg">
+</div>
 
   For fun I created a text based version of battleship. The game was on a 5x5 grid with only three battleships with lengths of 3 spaces. The game could be played with either two players or one player against the computer. The computer was pretty easy to play against because it always choose spaces randomly even if it hit something. 
 
