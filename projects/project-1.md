@@ -22,5 +22,5 @@ You can learn more about FIRST at <a href="https://www.firstinspires.org">FIRST<
 
 There are many awards given out during the FIRST season. The most prestigious among them is the Chairmen's Award. This is given to team that best represents all the goals of FIRST. I was involved in preparing Kalani students for the presentation that they needed to give to be eligible for the Chairmen's Award. I also helped to edit the paper that was also submitted to the Chairmen's Award.
 
-
+More can be learned about the Kalani Robotics Team <a href="http://www.magmarobotics.com">here</a>.
 
