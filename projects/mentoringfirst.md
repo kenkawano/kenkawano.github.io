@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/FIRST.png
+image: images/FIRST2.png
 title: Mentoring FIRST
 permalink: projects/mentoringfirst
 date: 2014
