@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/FIRST.jpg
 title: Mentoring FIRST
 permalink: projects/micromouse
 date: 2014
@@ -12,10 +12,8 @@ summary: I helped the Kalani Highschool robotics team with their outreach progra
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/FIRST.png">
+  <img class="ui image" src="../images/Kalani.jpg">
 </div>
 
 FIRST Robotics Compeition is an international program where teams of highschoolers design and create a robots to complete certain challenges in competition. The program was created to promote STEM education to students in a hands on and creative way. FIRST stand for For Inspiration and Recognition of Science and Technology. The program promotes other qualities such as community building, entrepreneurship, and sustainability.
