@@ -11,7 +11,7 @@ labels:
 
 <h1>How to Train Your Poster</h1>
 
-While reading Eric Raymond’s essay, How to Ask Questions the Smart Way, I couldn’t help but compare how hackers choose to answer questions to how owners train dogs. Dog owners will reward good behavior, but will punish bad behavior in order to establish good habits for dogs. This is done so that eventually the dog will be able to perform well by itself without the need of constant supervision. Experienced hackers will ignore and possibly flame those who ask stupid questions, while smart questions are rewarded with their answers and time. I believe that this is a tough love way of getting people to think for themselves and put actual thought and effort into what they are doing.
+While reading Eric Raymond’s essay, <a href="http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Questions the Smart Way</a>, I couldn’t help but compare how hackers choose to answer questions to how owners train dogs. Dog owners will reward good behavior, but will punish bad behavior in order to establish good habits for dogs. This is done so that eventually the dog will be able to perform well by itself without the need of constant supervision. Experienced hackers will ignore and possibly flame those who ask stupid questions, while smart questions are rewarded with their answers and time. I believe that this is a tough love way of getting people to think for themselves and put actual thought and effort into what they are doing.
 
 <h2>
   <a href="https://stackoverflow.com/questions/37520115/401-when-accessing-dynamics-crm-2016-web-apis">
