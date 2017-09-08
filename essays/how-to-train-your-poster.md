@@ -17,7 +17,7 @@ https://stackoverflow.com/questions/37520115/401-when-accessing-dynamics-crm-201
 
 	To me this post has many elements of a smart question. The title explains the problem he is having without adding anything unnecessary. He gives multiple examples for the problem that he is running into. He has also posted on another forum for answers. Most importantly he lists down things that he has tried before reaching out to the community for answers. This demonstrates a willingness to learn that hackers might find worth their time. He is rewarded with an answer from someone that seems to understand the problem fairly well. The answerer provides links to different resources and suggests multiple possible solutions to the problem. 
 
-	These are examples of stupid questions from StackOverflow:
+	These are examples of stupid questions from StackOverflow: and
 
 	The problem with this question was that it was too basic. The poster did not take the time to research the problem. Many commenter replied saying that the problem could have been solved with a google search or many easily accessed videos on youtube.
 
